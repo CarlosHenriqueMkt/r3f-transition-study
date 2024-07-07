@@ -205,8 +205,8 @@ Initializes the application and handles the toggle button for transitions.
 
 ```jsx
 import React, { useState } from 'react';
-import TransitionCanvas from './TransitionCanvas';
-import './index.css';  // Import the CSS file here
+import TransitionCanvas from './components/TransitionScene';
+import './index.css';
 
 const App = () => {
   const [toggle, setToggle] = useState(false);
