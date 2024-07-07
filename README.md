@@ -1,7 +1,3 @@
-Sure! Below is a version of the README that you can copy and paste directly.
-
----
-
 # Scene Transitions with Three.js and React Three Fiber
 
 This project demonstrates how to create smooth scene transitions using Three.js and React Three Fiber. By following this guide, you'll learn how to set up and manage scene transitions effectively, leveraging custom shaders and frame buffer objects (FBOs).
